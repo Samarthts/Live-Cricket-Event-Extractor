@@ -25,32 +25,3 @@ FastAPI
 Google Generative AI (Gemini)
 Pydantic
 JSON
-📦 Installation
-1. Clone the repository
-git clone https://github.com/your-username/Cricket-Event-Extractor.git
-
-cd Cricket-Event-Extractor
-2. Create a Virtual Environment
-
-Windows
-
-python -m venv venv
-venv\Scripts\activate
-
-Linux / macOS
-
-python3 -m venv venv
-source venv/bin/activate
-3. Install Dependencies
-pip install -r requirements.txt
-4. Configure Gemini API Key
-
-Set your Gemini API key as an environment variable.
-
-Windows
-
-set GEMINI_API_KEY=YOUR_API_KEY
-
-Linux/macOS
-
-export GEMINI_API_KEY=YOUR_API_KEY
